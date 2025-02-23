@@ -9,7 +9,7 @@ Esse projeto foi criado durante a semana de Iniciação ao Python, da Escola de 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
 
 **PPGA - UFPB** \
-[**LEMA**](https://lema.ufpb.br/) \
+[**LEMA**](https://www.instagram.com/lemaufpb/) \
 Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
 <br/>
 
