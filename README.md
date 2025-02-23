@@ -18,13 +18,13 @@ Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precoda
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/gabrielbpontes/gabrielbpontes">
+      <a href="https://github.com/gabrielbpontes">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127130171?s=48&v=4" width="100px;" alt=""/>
         <br />
         <sub><b>Gabriel Pontes</b></sub>
       </a>
       <br/>
-      <a href="https://github.com/gabrielbpontes/gabrielbpontes" target="_blank">
+      <a href="https://github.com/gabrielbpontes" target="_blank">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="padding-top: 10px;">
       </a>
       <br/>
